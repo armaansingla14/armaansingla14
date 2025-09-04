@@ -1,7 +1,7 @@
 # Hi, I'm Armaan Singla 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTZ5dHRha2RxdHBiY2tobXhoZzVucTR0bjNjZndwZjluMGc4NXl2OCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/BDQmMy3ZM8sgRNFkhe/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh6MnM4aGVycmZydHQxbG1vNnFyNDd3d3NrY2U5bmkyenc5d21wcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/14wm71RSxaYX60/giphy.gif" width="400">
 </p>
 
 I'm interested in **infrastructure, data and machine learning engineering!**
